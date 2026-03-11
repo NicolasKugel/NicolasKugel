@@ -13,7 +13,6 @@ Currently a 3rd-year Information Systems Engineering student.
 - 💻 Backend-focused software developer
 - 🎓 3rd year **Information Systems Engineering** student
 - 🧠 Interested in **Backend Engineering, Infrastructure, AI and Cybersecurity**
-- ⚙️ Passionate about **automation and system design**
 - 📚 Constantly learning new technologies and exploring complex systems
 
 I enjoy understanding how systems work internally and implementing **robust solutions that address both functional and non-functional requirements**.
