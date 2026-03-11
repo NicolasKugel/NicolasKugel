@@ -96,6 +96,12 @@ My development philosophy is based on:
 
 ---
 
+## 🧩 Coding Profiles
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/nicolas_kugel74)
+
+---
+
 # 📫 Let's Connect
 
 I'm always interested in collaborating on interesting projects, learning from other developers and contributing to meaningful software.
